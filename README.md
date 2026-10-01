@@ -17,7 +17,9 @@ Opens with Windows. One hotkey brings it up. Stays out of your taskbar.
 
 </div>
 
-![StickyTasks demo](assets/demo.gif)
+<div align="center">
+  <img src="assets/demo.gif" alt="StickyTasks demo" width="420">
+</div>
 
 ---
 

@@ -1,0 +1,49 @@
+STICKYTASKS - TERMS OF USE
+
+Copyright (c) 2026 Vrunani Muley. All rights reserved.
+
+Please read these terms before installing StickyTasks ("the Software").
+By clicking "I Agree" you accept them. If you do not agree, click
+"Cancel" and the Software will not be installed.
+
+1. LICENSE
+   You may install and use the Software on your own computers for free,
+   for personal or educational use. You may share the installer with
+   friends as long as you do not change it and do not charge for it.
+
+2. YOUR DATA STAYS ON YOUR PC
+   Your tasks, settings and logs are stored only on your computer, in
+   the folder %APPDATA%\StickyTasks. This version of the Software does
+   not send your tasks anywhere. The Software may contact GitHub to
+   check whether a newer version is available. No task content is sent.
+
+3. NOTIFICATIONS AND STARTUP
+   The Software can start with Windows and can show Windows
+   notifications for task reminders. You can turn startup off in the
+   tray menu or in Settings.
+
+4. NO WARRANTY
+   The Software is provided "as is", without warranty of any kind,
+   express or implied. The author is not responsible for lost data,
+   missed reminders, or any other damage caused by using the Software.
+   Please keep a backup of anything important (use Settings > Export).
+
+5. LIMITATION OF LIABILITY
+   To the maximum extent allowed by law, the author is not liable for
+   any indirect, incidental or consequential damages arising from the
+   use of, or inability to use, the Software.
+
+6. OWNERSHIP
+   The Software and its icon and artwork remain the property of the
+   author. You may not sell the Software, or claim it as your own.
+
+7. CHANGES
+   These terms may change in future versions. The terms shown in the
+   installer of the version you install are the ones that apply to it.
+
+8. UNINSTALL
+   You can uninstall the Software at any time from Windows Settings >
+   Apps. Your saved tasks are kept on your PC unless you delete the
+   folder %APPDATA%\StickyTasks yourself.
+
+Contact and feedback: https://github.com/vrunani
